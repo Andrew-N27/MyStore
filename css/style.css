@@ -1,0 +1,26 @@
+a {
+    width: 340px;
+    font-size: 20px;
+}
+
+a:hover {
+    color: #fff;
+    text-decoration: none;
+    transition: 0.1s;
+}
+
+ul {
+    margin-bottom: 40px;
+}
+
+.btn-main {
+    width: 308px;
+    border: 1px solid #55a7ff;
+    border-radius: 5px;
+    padding: 10px 100px;
+}
+
+.btn-main:hover {
+    background-color: #55a7ff;
+    transition: 1s;
+}
